@@ -1,15 +1,15 @@
-package intermediate_control_work.java.interjava;
+package intermediate_control_work.java;
 
-import intermediate_control_work.java.interjava.global.MyFileWriter;
+import intermediate_control_work.java.global.MyFileWriter;
 
-import intermediate_control_work.java.interjava.model.Toy;
+import intermediate_control_work.java.model.Toy;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import static intermediate_control_work.java.interjava.global.Vars.allToys;
-import static intermediate_control_work.java.interjava.global.Vars.winsToys;
+import static intermediate_control_work.java.global.Vars.allToys;
+import static intermediate_control_work.java.global.Vars.winsToys;
 
 public class Main {
 
