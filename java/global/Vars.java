@@ -1,6 +1,6 @@
-package intermediate_control_work.java.interjava.global;
+package intermediate_control_work.java.global;
 
-import intermediate_control_work.java.interjava.model.Toy;
+import intermediate_control_work.java.model.Toy;
 
 import java.util.ArrayList;
 

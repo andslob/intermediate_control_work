@@ -1,13 +1,13 @@
-package intermediate_control_work.java.interjava.global;
+package intermediate_control_work.java.global;
 
-import intermediate_control_work.java.interjava.model.Toy;
+import intermediate_control_work.java.model.Toy;
 
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-import static intermediate_control_work.java.interjava.global.Vars.myFileName;
+import static intermediate_control_work.java.global.Vars.myFileName;
 
 public class MyFileWriter {
 

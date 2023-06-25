@@ -1,4 +1,4 @@
-package intermediate_control_work.java.interjava.model;
+package intermediate_control_work.java.model;
 
 public class Toy {
     int id;
